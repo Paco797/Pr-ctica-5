@@ -1,0 +1,27 @@
+body{
+    background-color: lightblue;
+}
+h1.titulo{
+    text-align: center;
+    font-weight: bold;
+    color:darkcyan;
+    
+}
+h1.apartado{
+    background-color: darkgray;
+    color: darkslategrey;
+    text-decoration: underline;
+}
+h3{
+    background-color: rgb(132, 179, 179);
+    color: darkslategray;
+}   
+article{
+    background-color: rgb(147, 164, 168);
+}
+span.inicio{
+    color: blue;
+}
+span.centro{
+    color: darkblue;
+}
